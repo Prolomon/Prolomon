@@ -1,16 +1,15 @@
-## Hi there 👋
+# Project: Smartwatch Webpage
 
-<!--
-**Prolomon/Prolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Stack
+HTML, CSS, JS
 
-Here are some ideas to get you started:
+## 🧩 Features
+- Responsive smartwatch landing page
+- Animated product sections
+- Mobile-first design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Live Demo
+https://yourdemo.vercel.app
+
+## 📦 Use Case
+A client needed a sleek product launch page for a wearable.
