@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Prolomon 👋</h1>
 
 <p align="center">
-  <b>Frontend & Full-Stack Developer | UI/UX Craftsman | JavaScript Enthusiast</b>
+  <b>Full-Stack Developer | UI/UX Craftsman | JavaScript Enthusiast</b>
 </p>
 
 <p align="center">
@@ -22,43 +22,39 @@ I help startups and teams **transform ideas into working MVPs**, build modern da
 
 ### 🛠️ Tech Stack
 
-```ts
+ts
 Frontend    = ["React.js", "Next.js", "HTML5", "CSS3", "JavaScript", "TailwindCSS"]
 Backend     = ["Node.js", "Express", "MongoDB", "Firebase"]
 Tools       = ["Git", "Vercel", "Netlify", "Postman", "Figma"]
 Languages   = ["JavaScript", "TypeScript", "Python (Beginner)", "C++ (Learning)"]
 
 
----
-
-📊 My Developer Stats
+### 📊 My Developer Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prolomon&show_icons=true&theme=radical&hide=prs&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prolomon&layout=compact&theme=radical&langs_count=6" height="160"/>
 </p>
----
 
-🧠 Expertise Levels
+### 🧠 Expertise Levels
 
 Technology	Proficiency
 
-HTML5	██████████░░ 90%
-CSS3	█████████░░░ 80%
+HTML5	      ██████████░░ 90%
+CSS3	      █████████░░░ 80%
 JavaScript	█████████░░░ 80%
-Next.js	█████████░░░ 80%
-React.js	█████████░░░ 80%
-Node.js	█████████░░░ 80%
-MongoDB	████████░░░░ 70%
+Next.js	    █████████░░░ 80%
+React.js	  █████████░░░ 80%
+Node.js	    █████████░░░ 80%
+MongoDB	    ████████░░░░ 70%
 TypeScript	███████░░░░░ 65%
-Python	█████░░░░░░░ 50%
-C++	████░░░░░░░░ 40%
+Python	    █████░░░░░░░ 50%
+C++	        ████░░░░░░░░ 40%
 
 
 
----
 
-💼 Projects That Speak for Themselves
+### 💼 Projects That Speak for Themselves
 
 🔷 Smartwatch Landing Page
 
@@ -66,46 +62,23 @@ C++	████░░░░░░░░ 40%
 A polished, responsive product showcase landing page. Mobile-first, animation-ready, and performance-optimized.
 
 
-
-🔷 Watawara
-
-> Tech: JavaScript
-A real-time concept app built around smart interactions and modern UI states.
-
-
-
-🔷 Wadmin
-
-> Tech: JavaScript, Next.js
-Admin dashboard template designed with scalability, charts, and modular UI components.
-
-
-
-
----
-
-📈 Contribution Activity
+### 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prolomon&theme=github-compact" />
 </p>
----
 
-📬 Let's Connect!
 
-📫 Email: prolomon.dev@gmail.com
+### 📬 Let's Connect!
 
-📱 WhatsApp: wa.me/qr/SJOGBIN8QCJU5D1
+📫 Email: taiwooyetade67@gmail.com
+
+📱 x: @prolomon
 
 🎬 TikTok: @prolomon0
 
-
-
----
 
 <p align="center">
   <i>“Code like a craftsman. Ship like an engineer.”</i><br />
   <b>— Prolomon</b>
 </p>
-```
----
