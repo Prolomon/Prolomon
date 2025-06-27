@@ -28,7 +28,7 @@ When I'm not coding, I'm sketching UI layouts, recording tech content, or contri
 <h2>🛠️ Tech Stack</h2>
 
 <ul>
-  <li><b>Frontend:</b> React.js, Next.js, HTML5, CSS3, JavaScript, TailwindCSS</li>
+  <li><b>Fronend:</b> React.js, Next.js, HTML5, CSS3, JavaScript, TailwindCSS</li>
   <li><b>Backend:</b> Node.js, Express, MongoDB, Firebase</li>
   <li><b>Languages:</b> JavaScript, TypeScript, Python (Beginner), C++ (Learning)</li>
   <li><b>Tools:</b> Git, Vercel, Netlify, Postman, Figma</li>
@@ -47,88 +47,44 @@ When I'm not coding, I'm sketching UI layouts, recording tech content, or contri
 
 <h2>🧠 Skill Proficiency</h2>
 
-<div style="font-family: monospace;">
+<div>
+  <img src="https://progress-bar.xyz/90?title=HTML5&color=4CAF50" alt="HTML5 proficiency"/>
+</div>
 
-  <div style="margin-bottom: 10px;">
-    <span style="display:inline-block; width: 100px;">HTML5</span>
-    <div style="display:inline-block; width: 200px; background-color: #ddd; border-radius: 10px;">
-      <div style="width: 90%; background-color: #4CAF50; height: 12px; border-radius: 10px;"></div>
-    </div>
-    <span style="margin-left: 10px;">90%</span>
-  </div>
+<div>
+  <img src="https://progress-bar.xyz/80?title=CSS3&color=4CAF50" alt="CSS3 proficiency"/>
+</div>
 
-  <div style="margin-bottom: 10px;">
-    <span style="display:inline-block; width: 100px;">CSS3</span>
-    <div style="display:inline-block; width: 200px; background-color: #ddd; border-radius: 10px;">
-      <div style="width: 80%; background-color: #4CAF50; height: 12px; border-radius: 10px;"></div>
-    </div>
-    <span style="margin-left: 10px;">80%</span>
-  </div>
+<div>
+  <img src="https://progress-bar.xyz/80?title=JavaScript&color=4CAF50" alt="JavaScript proficiency"/>
+</div>
 
-  <div style="margin-bottom: 10px;">
-    <span style="display:inline-block; width: 100px;">JavaScript</span>
-    <div style="display:inline-block; width: 200px; background-color: #ddd; border-radius: 10px;">
-      <div style="width: 80%; background-color: #4CAF50; height: 12px; border-radius: 10px;"></div>
-    </div>
-    <span style="margin-left: 10px;">80%</span>
-  </div>
+<div>
+  <img src="https://progress-bar.xyz/80?title=Next.js&color=4CAF50" alt="Next.js proficiency"/>
+</div>
 
-  <div style="margin-bottom: 10px;">
-    <span style="display:inline-block; width: 100px;">Next.js</span>
-    <div style="display:inline-block; width: 200px; background-color: #ddd; border-radius: 10px;">
-      <div style="width: 80%; background-color: #4CAF50; height: 12px; border-radius: 10px;"></div>
-    </div>
-    <span style="margin-left: 10px;">80%</span>
-  </div>
+<div>
+  <img src="https://progress-bar.xyz/80?title=React.js&color=4CAF50" alt="React.js proficiency"/>
+</div>
 
-  <div style="margin-bottom: 10px;">
-    <span style="display:inline-block; width: 100px;">React.js</span>
-    <div style="display:inline-block; width: 200px; background-color: #ddd; border-radius: 10px;">
-      <div style="width: 80%; background-color: #4CAF50; height: 12px; border-radius: 10px;"></div>
-    </div>
-    <span style="margin-left: 10px;">80%</span>
-  </div>
+<div>
+  <img src="https://progress-bar.xyz/80?title=Node.js&color=4CAF50" alt="Node.js proficiency"/>
+</div>
 
-  <div style="margin-bottom: 10px;">
-    <span style="display:inline-block; width: 100px;">Node.js</span>
-    <div style="display:inline-block; width: 200px; background-color: #ddd; border-radius: 10px;">
-      <div style="width: 80%; background-color: #4CAF50; height: 12px; border-radius: 10px;"></div>
-    </div>
-    <span style="margin-left: 10px;">80%</span>
-  </div>
+<div>
+  <img src="https://progress-bar.xyz/70?title=MongoDB&color=FFC107" alt="MongoDB proficiency"/>
+</div>
 
-  <div style="margin-bottom: 10px;">
-    <span style="display:inline-block; width: 100px;">MongoDB</span>
-    <div style="display:inline-block; width: 200px; background-color: #ddd; border-radius: 10px;">
-      <div style="width: 70%; background-color: #4CAF50; height: 12px; border-radius: 10px;"></div>
-    </div>
-    <span style="margin-left: 10px;">70%</span>
-  </div>
+<div>
+  <img src="https://progress-bar.xyz/65?title=TypeScript&color=FFC107" alt="TypeScript proficiency"/>
+</div>
 
-  <div style="margin-bottom: 10px;">
-    <span style="display:inline-block; width: 100px;">TypeScript</span>
-    <div style="display:inline-block; width: 200px; background-color: #ddd; border-radius: 10px;">
-      <div style="width: 65%; background-color: #4CAF50; height: 12px; border-radius: 10px;"></div>
-    </div>
-    <span style="margin-left: 10px;">65%</span>
-  </div>
+<div>
+  <img src="https://progress-bar.xyz/50?title=Python&color=F44336" alt="Python proficiency"/>
+</div>
 
-  <div style="margin-bottom: 10px;">
-    <span style="display:inline-block; width: 100px;">Python</span>
-    <div style="display:inline-block; width: 200px; background-color: #ddd; border-radius: 10px;">
-      <div style="width: 50%; background-color: #FFC107; height: 12px; border-radius: 10px;"></div>
-    </div>
-    <span style="margin-left: 10px;">50%</span>
-  </div>
-
-  <div style="margin-bottom: 10px;">
-    <span style="display:inline-block; width: 100px;">C++</span>
-    <div style="display:inline-block; width: 200px; background-color: #ddd; border-radius: 10px;">
-      <div style="width: 40%; background-color: #F44336; height: 12px; border-radius: 10px;"></div>
-    </div>
-    <span style="margin-left: 10px;">40%</span>
-  </div>
-
+<div>
+  <img src="https://progress-bar.xyz/40?title=C++&color=F44336" alt="C++ proficiency"/>
 </div>
 
 <hr/>
