@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://github.com/Prolomon"><img src="https://img.shields.io/github/followers/Prolomon?label=Follow&style=social" /></a>
   <a href="https://tiktok.com/@prolomon0"><img src="https://img.shields.io/badge/TikTok-Prolomon0-black?logo=tiktok" /></a>
-L
-  <a href="mailto: taiwooyetade67@gmail.com"><img src="https://img.shields.io/badge/Email-prolomon.dev@gmail.com-blue?style=flat&logo=gmail" /></a>
+  <a href="mailto: taiwooyetade67@gmail.com"><img src="https://img.shields.io/badge/Email-taiwooyetade67@gmail.com-blue?style=flat&logo=gmail" /></a>
 </p>
 
 <hr/>
